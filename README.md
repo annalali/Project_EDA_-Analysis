@@ -14,19 +14,19 @@
 
 ######        Table 1: Describe columns by clarifying features and data type.
 
-|Features    |Data Type     |Description                    |
-|:-----------|:-------------|:------------------------------|
-|Price       |Integer  |The sale price of the vehicle in the ad.|
-|Years       |Integer  |The vehicle registration year.|
-|Brand       |String   |The brand of car.|
-|Model       |String   |model of the vehicle.|
-|Color       |String   |Color of the vehicle.|
-|State/City  |String   |The location in which the car is being available for purchase.|
-|Mileage     |Float    |miles traveled by vehicle.|
-|Vin         |String   |The vehicle identification number is a collection of 17 characters (digits and capital letters).|
-|Title Status|String   |This feature included binary classification, which are clean title vehicles and salvage insurance.|
-|Lot         |Integer  |A lot of numbers are identification the number assigned for a particular quantity or a lot of materials from a single manufacturer. For cars, a lot numbers are combined with a serial number to form the Vehicle Identification Number.|
-|Condition   |String   |Time|----|
+|Features    |Data Type        |Description                    |
+|:-----------|:----------------|:------------------------------|
+|Price       |Integer          |The sale price of the vehicle in the ad.|
+|Years       |Integer          |The vehicle registration year.|
+|Brand       |String           |The brand of car.|
+|Model       |String           |model of the vehicle.|
+|Color       |String           |Color of the vehicle.|
+|State/City  |String           |The location in which the car is being available for purchase.|
+|Mileage     |Float            |miles traveled by vehicle.|
+|Vin         |String           |The vehicle identification number is a collection of 17 characters (digits and capital letters).|
+|Title Status|String           |This feature included binary classification, which are clean title vehicles and salvage insurance.|
+|Lot         |Integer          |A lot of numbers are identification the number assigned for a particular quantity or a lot of materials from a single manufacturer. For cars, a lot numbers are combined with a serial number to form the Vehicle Identification Number.|
+|Condition   |String           |Time|----|
 
 ## Tools:
 #### Terminology: google Colab, python, power BI.
