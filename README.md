@@ -10,13 +10,12 @@ This project aims to analyze data for a cars rental company.
 
 ## Data Description: 
 #### With 13 columns, 12 features for each car, and 2500 rows, a dataset has three types of data, as shown in Table 1, which includes lists the features, data type, and description for each column.
-#### The dataset has a size of 284 KB that called US Cars' data. [DataSet](https://www.kaggle.com/doaaalsenani/usa-cers-dataset "optional title"),  https://www.kaggle.com/doaaalsenani/usa-cers-dataset
+#### The dataset has a size of 284 KB that called US Cars' data, [DataSet](https://www.kaggle.com/doaaalsenani/usa-cers-dataset "optional title").
 
+######        Table 1: Describe columns by clarifying features and data type.
 
-|Center      |Center   |Center                        |
-|:-----------|:--------|:-----------------------------|
-|Features    |Data Type|Description                   |
-| -----------| --------|------------------------------|
+|Features    |Data Type     |Description                    |
+|:-----------|:-------------|:------------------------------|
 |Price       |Integer  |The sale price of the vehicle in the ad.|
 |Years       |Integer  |The vehicle registration year.|
 |Brand       |String   |The brand of car.|
@@ -27,8 +26,7 @@ This project aims to analyze data for a cars rental company.
 |Vin         |String   |The vehicle identification number is a collection of 17 characters (digits and capital letters).|
 |Title Status|String   |This feature included binary classification, which are clean title vehicles and salvage insurance.|
 |Lot         |Integer  |A lot of numbers are identification the number assigned for a particular quantity or a lot of materials from a single manufacturer. For cars, a lot numbers are combined with a serial number to form the Vehicle Identification Number.|
-|Condition   |String   |Time|
-|:-----------|:--------|:------------------------------|
+|Condition   |String   |Time|----|
 
 ## Tools:
 #### Terminology: google Colab, python, power BI.
