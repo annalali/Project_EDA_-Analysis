@@ -6,14 +6,12 @@ This project aims to analyze data for a cars rental company.
 #### This data file includes Information about 28 brands of vehicles for hire in US. Twelve features were assembled for each car in the dataset.
 
 ## Problem:
-##### How is the car rental price affected by the increase or decrease in several factors, including:
-number of mileage, brand year, and type of brand.
+#### How is the car rental price affected by the increase or decrease in several factors, including: number of mileage, brand year, and type of brand.
 
 ## Data Description: 
 #### With 13 columns, 12 features for each car, and 2500 rows, a dataset has three types of data, as shown in Table 1, which includes lists the features, data type, and description for each column.
-#### The dataset has a size of 284 KB that called US Cars' data. https://www.kaggle.com/doaaalsenani/usa-cers-dataset
-[DataSet](https://www.kaggle.com/doaaalsenani/usa-cers-dataset "optional title")
-Click [here][id] [id]:https://www.kaggle.com/doaaalsenani/usa-cers-dataset
+#### The dataset has a size of 284 KB that called US Cars' data. [DataSet](https://www.kaggle.com/doaaalsenani/usa-cers-dataset "optional title"),  https://www.kaggle.com/doaaalsenani/usa-cers-dataset
+
 
 |Center      |Center   |Center                        |
 |:-----------|:--------|:-----------------------------|
