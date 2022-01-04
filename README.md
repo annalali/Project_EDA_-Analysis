@@ -29,5 +29,5 @@
 |Condition   |String           |Time|----|
 
 ## Tools:
-#### Terminology: google Colab, python, power BI.
-#### Libraries: Numpy, matplotlib, pandas.
+#### Terminology: Python, jupter Notebook.
+#### Libraries: Numpy, matplotlib, pandas, Seaborn, Stats, Math, Random, Plotly.express.
