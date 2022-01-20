@@ -32,3 +32,4 @@
 ## Tools:
 #### Terminology: Python, jupter Notebook.
 #### Libraries: Numpy, matplotlib, pandas, Seaborn, Stats, Math, Random, Plotly.express.
+
